@@ -1,4 +1,4 @@
-# Twitter-clone-web-3.0 
+# Social Media Website using Web 3.0
  To run
  1. cd client
  2. npm run dev
